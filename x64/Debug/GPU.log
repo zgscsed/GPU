@@ -1,0 +1,13 @@
+﻿  Generate moc_predefs.h
+  Moc'ing gpuprogramming.h...
+  Moc'ing renderingwidget.h...
+  Uic'ing gpuprogramming.ui...
+  gpuprogramming.cpp
+  main.cpp
+  renderingwidget.cpp
+  moc_gpuprogramming.cpp
+  moc_renderingwidget.cpp
+d:\qtprogram\gpu\renderingwidget.cpp(25): warning C4100: “h”: 未引用的形参
+d:\qtprogram\gpu\renderingwidget.cpp(25): warning C4100: “w”: 未引用的形参
+d:\qtprogram\gpu\renderingwidget.cpp(50): warning C4100: “infFactor”: 未引用的形参
+  GPU.vcxproj -> D:\qtprogram\GPU\debug\GPU.exe

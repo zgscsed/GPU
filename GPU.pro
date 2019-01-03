@@ -25,10 +25,12 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
         main.cpp \
-        gpuprogramming.cpp
+        gpuprogramming.cpp \
+    renderingwidget.cpp
 
 HEADERS += \
-        gpuprogramming.h
+        gpuprogramming.h \
+    renderingwidget.h
 
 FORMS += \
         gpuprogramming.ui
